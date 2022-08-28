@@ -28,7 +28,6 @@ function PageHero() {
         <br />
         <div>
           <h3>
-            Contact Me: <br />
             Phone: (262) 372-2034 <br />
             Email: seangeezydj@gmail.com
           </h3>
